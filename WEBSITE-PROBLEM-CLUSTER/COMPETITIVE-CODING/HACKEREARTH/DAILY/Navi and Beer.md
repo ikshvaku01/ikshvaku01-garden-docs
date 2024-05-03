@@ -26,9 +26,9 @@ Navi is at the Beer Bar where he has ordered **N** beers. After seeing his love 
 ### Explanation : 
 Total Money required is : 2 * 1<sup>3</sup> + 2 * 2<sup>3</sup> = 18 but he already has 10 so answer is 8.
 ## CODE : 
-* [CHECK THE CPP CODE IN REPOSITORY](https://raw.githubusercontent.com/ikshvaku01/ikshvaku01-garden-docs/main/WEBSITE-SOLUTION-CLUSTER/COMPETITIVE-CODING/HACKEREARTH/9378df6c-95674417b0df-d66ee4d2c971/Navi-and-Beer.cpp)
-* [Check Author's Solution](https://raw.githubusercontent.com/ikshvaku01/ikshvaku01-garden-docs/main/WEBSITE-SOLUTION-CLUSTER/COMPETITIVE-CODING/HACKEREARTH/9378df6c-95674417b0df-d66ee4d2c971/Author's-Solution.cpp)
-* [Check Tester's Solution](https://raw.githubusercontent.com/ikshvaku01/ikshvaku01-garden-docs/main/WEBSITE-SOLUTION-CLUSTER/COMPETITIVE-CODING/HACKEREARTH/9378df6c-95674417b0df-d66ee4d2c971/Tester's-Solution.cpp)
+* [CHECK THE CPP CODE IN REPOSITORY]
+* [Check Author's Solution]
+* [Check Tester's Solution]
 
 ```cpp
 #include <iostream>

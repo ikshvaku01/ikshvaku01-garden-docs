@@ -1,7 +1,7 @@
 ---
 title: Serialize & Deserialize A Binary Tree
 published: 2024-05-02
-tags: ["tree", "Data-Structure"]
+tags: ["Tree", "Data-Structure"]
 category: GEEKSFORGEEKS
 draft: false
 ---
@@ -41,7 +41,7 @@ The task is to complete two functions **serialize** which takes the root node o
 1 <= Number of nodes <= 10<sup>4</sup> 
 1 <= Data of a node <= 10<sup>9</sup>
 ## CODE : 
-* [CHECK THE CPP CODE IN REPOSITORY](https://raw.githubusercontent.com/ikshvaku01/ikshvaku01-garden-docs/main/WEBSITE-SOLUTION-CLUSTER/COMPETITIVE-CODING/GEEKSFORGEEKS/1f0ccffa-edfd48f9ba64-53dfdeea2fee/SerializeandDeserializeABinaryTree.cpp)
+* [CHECK THE CPP CODE IN REPOSITORY]
 
 ```cpp
 #include <bits/stdc++.h>
@@ -224,7 +224,7 @@ int main() {
 ```
 
 ## Editorial :
-### [Authors Expected Approach](https://raw.githubusercontent.com/ikshvaku01/ikshvaku01-garden-docs/main/WEBSITE-SOLUTION-CLUSTER/COMPETITIVE-CODING/GEEKSFORGEEKS/1f0ccffa-edfd48f9ba64-53dfdeea2fee/expectedAuthorsApproach.cpp)
+### [Authors Expected Approach]
 #### Intuition :
 
 We can implement serialization and deserialization of a binary tree using a recursive approach. The intuition behind this code is to convert a binary tree into a list of values and then reconstruct the tree from the list of values. The serialization function recursively traverses the tree in a pre-order fashion, appending node values to a list. The deserialization function uses a helper function to create nodes from the list of values and reconstruct the original binary tree.
@@ -247,7 +247,7 @@ We can implement serialization and deserialization of a binary tree using a recu
 - ****Time Complexity :****Time complexity for both serialization and deserialization is O(n), where n is the number of nodes or elements.
 - ****Space Complexity:**** Space complexity is O(n) for storing all nodes into an array.
 
-### [Alternate Approach](https://raw.githubusercontent.com/ikshvaku01/ikshvaku01-garden-docs/main/WEBSITE-SOLUTION-CLUSTER/COMPETITIVE-CODING/GEEKSFORGEEKS/1f0ccffa-edfd48f9ba64-53dfdeea2fee/alternateApproach.cpp)
+### [Alternate Approach]
 #### Intuition : 
 
 We can do BFS with the help of a queue to serialize and deserialize the tree.
